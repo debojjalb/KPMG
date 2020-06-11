@@ -14,7 +14,7 @@ Virtual Internship KPMG (Task 1)
 -  [Erroneous Raw Data](Raw.xlsx)
 -  [My Jupyter Notebook](KPMG_Module_1.ipynb)
 -  [Fixed Data](FIXED_Dataset.xlsx)
--  [Covver Letter to Client](CoverLetter.docx)
+-  [Cover Letter to Client](CoverLetter.docx)
 
 ---
 
