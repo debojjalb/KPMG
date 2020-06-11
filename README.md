@@ -11,9 +11,9 @@ Virtual Internship KPMG (Task 1)
 
 ## Contributers
 
-- 1. [Erroneous Raw Data](Raw.xlsx)
-- 2. [My Jupyter Notebook](KPMG_Module_1.ipynb)
-- 3. [Fixed Data](FIXED_Dataset.xlsx)
+-  [Erroneous Raw Data](Raw.xlsx)
+-  [My Jupyter Notebook](KPMG_Module_1.ipynb)
+-  [Fixed Data](FIXED_Dataset.xlsx)
 
 ---
 
