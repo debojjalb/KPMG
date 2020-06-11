@@ -9,7 +9,7 @@ Virtual Internship KPMG (Task 1)
 
 ---
 
-## Contributers
+## Files
 
 -  [Erroneous Raw Data](Raw.xlsx)
 -  [My Jupyter Notebook](KPMG_Module_1.ipynb)
