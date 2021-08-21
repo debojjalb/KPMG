@@ -12,9 +12,13 @@ Virtual Internship KPMG (Task 1)
 ## Files
 
 -  [Erroneous Raw Data](Raw.xlsx)
--  [My Jupyter Notebook](KPMG_Module_1.ipynb)
+-  [Jupyter Notebook 1](KPMG_Module_1.ipynb)
 -  [Fixed Data](FIXED_Dataset.xlsx)
 -  [Cover Letter to Client](CoverLetter.pdf)
+-  [Erroneous Raw Data](Raw.xlsx)
+-  [Jupyter Notebook 2](KPMG_Module_2.ipynb)
+-  [PPT to Client in PDF](Module_2_PPT.pdf)
+
 
 ---
 
